@@ -1,33 +1,59 @@
 # Hi there, I'm Pranith 👋
 
-🎓 **Computer Science Student** | 💻 **C Programming & Systems Enthusiast**
+### 🎓 Computer Science Student | 💻 C Programmer | ⚙️ Systems & Low-Level Programming Enthusiast
 
-I'm currently building my foundation in core computer science, memory management, and low-level programming with C.
+I'm a Computer Science student passionate about understanding how software works at a deeper level.
+
+Currently, I'm strengthening my foundations in **C programming, memory management, data structures, and computer systems**, while also learning **Python and Java**.
 
 ---
 
-### 💻 Technical Skills
+## 🧑‍💻 About Me
 
-**Languages**
+- 🎓 Computer Science Student
+- 💻 Currently focused on **C Programming**
+- 🧠 Interested in **Memory Management & Low-Level Programming**
+- 🐍 Learning **Python**
+- ☕ Exploring **Java**
+- 🔧 Learning **Git & GitHub**
+- 🚀 Always learning and building new projects
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Tools
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-**Core Focus Areas**
-* 🧠 PYTHON
-* ⚡ JAVA
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
+## 🎯 Current Focus
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" width="48%" />
-</p>
+- 🔹 C Programming
+- 🔹 Data Structures & Algorithms
+- 🔹 Pointers & Dynamic Memory
+- 🔹 Computer Systems
+- 🔹 Operating System Fundamentals
+- 🔹 Python Programming
+- 🔹 Java Programming
+- 🔹 Git & GitHub
 
 ---
 
-📫 **How to reach me:**  
-[LinkedIn](https://www.linkedin.com/in/pranith-m-907301381?utm_source=share_via&utm_content=profile&utm_medium=member_android) |
-[Email](mpranith614@gmail.com)
+## 🚀 Learning Journey
+
+```text
+C Programming          ████████████████████░  90%
+Data Structures        ████████████████░░░░░  75%
+Memory Management      ██████████████░░░░░░░  70%
+Python                 █████████████░░░░░░░░  65%
+Java                   ███████████░░░░░░░░░░  55%
+Git & GitHub            ███████████████░░░░░░  70%
