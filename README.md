@@ -41,8 +41,6 @@ Currently, I'm strengthening my foundations in **Full Stack Java Development, HT
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat\&logo=visual-studio-code\&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat\&logo=intellijidea\&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat\&logo=eclipseide\&logoColor=white)
 
 
 ---
